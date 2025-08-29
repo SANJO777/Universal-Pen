@@ -1,0 +1,19 @@
+# Directorios y archivos de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Entorno virtual
+kivy-env/
+
+# Archivos de la IDE (Visual Studio)
+.vs/
+*.vspscc
+*.suo
+
+# Archivos de Kivy
+.kivy/
+
+# Archivos específicos del sistema operativo
+.DS_Store
+Thumbs.db
